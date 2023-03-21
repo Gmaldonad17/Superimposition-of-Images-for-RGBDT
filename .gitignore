@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.idea/
+.git/
+__pycache__/
+photos/
+videos/
+stereoAI/
+*.pth
+*.pt
