@@ -29,7 +29,7 @@ The directory tree should look like this:
 # Usage
 To use program set up folder structure as mentioned above. This will ensure the program can grab the videos in the correct format. (Args coming soon) Manipulate the configuration class in "photo_combine.ipynb" to your usecase:
 
-'
+```
 Options: "RGB", "Thermal", "Depth"
 
 minimlImg: 
@@ -48,6 +48,6 @@ Which video format will be used by the cv2.VideoWriter
 
 # Additional Information
 Project was developed on Python 3.10 with windows 10
-'
+```
 
 
