@@ -12,7 +12,7 @@ Next install pytorch, torchvision with your correct version of cuda or cpu
 
 # Data preparation
 The directory tree should look like this:
-'
+```
 {ROOT}
 |-- videos
     |-- {DATE}
@@ -24,7 +24,7 @@ The directory tree should look like this:
     |   |-- stereoout.mp4
     |   |-- thermalout.mp4
 |-- yolov8n-seg.pt
-'
+```
 
 # Usage
 To use program set up folder structure as mentioned above. This will ensure the program can grab the videos in the correct format. (Args coming soon) Manipulate the configuration class in "photo_combine.ipynb" to your usecase:
