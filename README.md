@@ -5,7 +5,7 @@ The purposes of this github repository is to provide a method of determining a r
 
 Clone the repsistory into {ROOT}
 
-'conda env create -f environment.yml'
+`conda env create -f environment.yml`
 This will install all required prerequisite for running the main body of the program
 Next install pytorch, torchvision with your correct version of cuda or cpu
 
