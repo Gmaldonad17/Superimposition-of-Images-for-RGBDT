@@ -1,6 +1,8 @@
 # Superimposition-of-Images-for-RGBDT
 The purposes of this github repository is to provide a method of determining a relationship between multiple sensors and ultizing that to modify images to superimpose those sensors. This is preformed primilary using Yolov8 and an algorithm developed to obtain the most siginificant object within all three sensors (RGB, Thermal, Depth) and verify if that object is corrolated across all sensors.
 
+![Full Output of program after data extraction and tracking](/git_images/tracking_gif.gif)
+
 # Installation 
 
 Clone the repsistory into {ROOT}
@@ -27,6 +29,9 @@ The directory tree should look like this:
 ```
 
 # Usage
+
+![Relationship of images after modification](/git_images/relationship.gif)
+
 To use program set up folder structure as mentioned above. This will ensure the program can grab the videos in the correct format. (Args coming soon) Manipulate the configuration class in "photo_combine.ipynb" to your usecase:
 
 ```
