@@ -1,5 +1,5 @@
 # Superimposition-of-Images-for-RGBDT
-The purposes of this github repository is to provide a method of determining a relationship between multiple sensors and ultizing that to modify images to superimpose those sensors. This is preformed primilary using Yolov8 and an algorithm developed to obtain the most siginificant object within all three sensors (RGB, Thermal, Depth) and verify if that object is corrolated across all sensors.
+The purpose of this github repository is to provide a method of determining a relationship between multiple sensors and utilizing that to modify images to superimpose those sensors. This is performed primarily using Yolov8 and an algorithm developed to obtain the most significant object within all three sensors (RGB, Thermal, Depth) and verify if that object is correlated across all sensors.
 
 ![Full Output of program after data extraction and tracking](/git_images/tracking_gif.gif)
 

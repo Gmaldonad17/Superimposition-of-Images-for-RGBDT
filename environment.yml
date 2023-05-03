@@ -1,4 +1,4 @@
-name: senior
+name: RGBDT
 channels:
   - pytorch
   - conda-forge
